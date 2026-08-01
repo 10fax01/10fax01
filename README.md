@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10fax01&label=Profile%20views&color=900eb4&style=plastic" alt="10fax01" /> </p>
 
-- I’m currently maintaining on [VeilX](https://veilx.lol/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/fSWaCv8q5C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fSWaCv8q5C" height="30" width="40" /></a>

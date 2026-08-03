@@ -1,12 +1,63 @@
-<h1 align="center">Hi, I'm 10fax01</h1>
-<h3 align="center">A Simple Programmer learning the ropes</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=10fax01&label=Profile%20views&color=900eb4&style=plastic" alt="10fax01" /> </p>
+<img src="./assets/cc-banner.jpg" width="100%" alt="C.C. Code Geass banner"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/fSWaCv8q5C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fSWaCv8q5C" height="30" width="40" /></a>
+# 10fax01
+
+Cyber Security | Reverse Engineering | Windows Internals
+
+<img src="https://komarev.com/ghpvc/?username=10fax01&label=Profile%20Views&color=900eb4&style=flat-square" alt="Profile Views"/>
+
+</div>
+
+## About
+
+Hi I'm 10fax01. I do cyber security related work.
+
+My public work currently includes vulnerable Windows driver research, BYOVD, reverse engineering, and symbol mapping.
+
+## Projects
+
+### [HP_SWTOOLS_DRIVER](https://github.com/10fax01/HP_SWTOOLS_DRIVER)
+
+Vulnerable HP driver research with a C++ PoC.
+
+### [BYOVD](https://github.com/10fax01/BYOVD)
+
+Write-up covering Bring Your Own Vulnerable Driver and how to find them.
+
+### [Symbol-Mapping-Guide](https://github.com/10fax01/Symbol-Mapping-Guide)
+
+IDA guide for finding and mapping obfuscated Unity symbols.
+
+## Languages and Tools
+
+<p>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="38" height="38"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="38" height="38"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="38" height="38"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=10fax01&theme=github_dark" width="100%" alt="GitHub contribution summary"/>
+</div>
+
+## Contact
+
+<a href="https://discord.gg/fSWaCv8q5C">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"/>
+</a>

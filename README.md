@@ -50,12 +50,6 @@ IDA guide for finding and mapping obfuscated Unity symbols.
   </a>
 </p>
 
-## GitHub Activity
-
-<div align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
-</div>
-
 ## Contact
 
 <a href="https://discord.gg/fSWaCv8q5C">

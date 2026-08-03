@@ -4,7 +4,7 @@
 
 # 10fax01
 
-Cyber Security | Reverse Engineering | Windows Internals
+Cyber Security /\ Reverse Engineering /\ Windows Internals
 
 <img src="https://komarev.com/ghpvc/?username=10fax01&label=Profile%20Views&color=900eb4&style=flat-square" alt="Profile Views"/>
 
@@ -53,7 +53,7 @@ IDA guide for finding and mapping obfuscated Unity symbols.
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=10fax01&theme=github_dark" width="100%" alt="GitHub contribution summary"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
 </div>
 
 ## Contact

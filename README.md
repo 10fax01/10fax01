@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cc-banner.jpg" width="100%" alt="C.C. Code Geass banner"/>
+<img src="./cc-banner.jpg" width="100%" alt="C.C. Code Geass banner"/>
 
 # 10fax01
 
